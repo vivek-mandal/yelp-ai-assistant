@@ -1,0 +1,16 @@
+{
+  "zero_shot": {
+    "accuracy": 0.69,
+    "macro_f1": 0.6823,
+    "parse_failures": 0,
+    "n": 200,
+    "json_compliance": "100.00%"
+  },
+  "few_shot": {
+    "accuracy": 0.675,
+    "macro_f1": 0.6722,
+    "parse_failures": 0,
+    "n": 200,
+    "json_compliance": "100.00%"
+  }
+}
