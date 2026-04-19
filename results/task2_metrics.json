@@ -1,0 +1,14 @@
+{
+  "direct": {
+    "accuracy": 0.68,
+    "macro_f1": 0.6703,
+    "parse_failures": 0,
+    "n": 200
+  },
+  "cot": {
+    "accuracy": 0.66,
+    "macro_f1": 0.6477,
+    "parse_failures": 0,
+    "n": 200
+  }
+}

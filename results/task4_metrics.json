@@ -1,0 +1,26 @@
+{
+  "yelp": {
+    "accuracy": 0.77,
+    "macro_f1": 0.7604,
+    "parse_failures": 0,
+    "n": 100
+  },
+  "amazon": {
+    "accuracy": 0.6869,
+    "macro_f1": 0.3208,
+    "parse_failures": 1,
+    "n": 100
+  },
+  "imdb": {
+    "accuracy": 0.5657,
+    "macro_f1": 0.2892,
+    "parse_failures": 1,
+    "n": 100
+  },
+  "adversarial": {
+    "accuracy": 0.75,
+    "macro_f1": 0.6267,
+    "parse_failures": 0,
+    "n": 8
+  }
+}
