@@ -26,6 +26,7 @@ uv run python task4_domain_shift.py
 ```
 
 ## Project Structure
+
 yelp-ai-assignment/
 ├── pyproject.toml              ← uv dependencies
 ├── .env.example                ← credentials template
